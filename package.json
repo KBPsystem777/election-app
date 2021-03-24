@@ -2,6 +2,11 @@
   "name": "election-app",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Koleen BP",
+    "email": "koleen.bp@outlook.com",
+    "url": "https://koleenbp.com"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
